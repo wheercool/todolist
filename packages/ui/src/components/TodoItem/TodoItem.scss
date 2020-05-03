@@ -1,0 +1,21 @@
+.todo-item {
+  display: flex;
+  align-items: center;
+  color: #434343;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+
+  &__content {
+    display: flex;
+    align-items: center;
+  }
+  &__done {
+  }
+  &__text {
+    margin-left: 5px;
+  }
+  &__date {
+    margin-left: auto;
+  }
+}

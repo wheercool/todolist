@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./lib",
+    "sourceMap": true,
+    "declaration": true,
+    "module": "CommonJS",
+    "resolveJsonModule": true
+  }
+}

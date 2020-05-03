@@ -1,5 +1,6 @@
 TODO:
- +1. Create ui with createreactapp with support of ts, scss
- 2. Create utils package
- 3. Create model package
- 4. Create rest package
+ +Create ui with createreactapp with support of ts, scss
+ +Create utils package
+ +Create model package
+ Add support for IDEs
+ Create rest package
